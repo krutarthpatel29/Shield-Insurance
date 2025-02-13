@@ -10,7 +10,7 @@ Explore the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/vi
 
 Hey, everyone 👋🏻 
 
-🚀 I'm excited to share my 𝗳𝗶𝗻𝗮𝗹 ## Internship 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘀𝘂𝗯𝗺𝗶𝘀𝘀𝗶𝗼𝗻 as a Data Analyst Intern at AtliQ Technologies, part of the Codebasics Bootcamp 4.0. 🚀
+🚀 I'm excited to share my 𝗳𝗶𝗻𝗮𝗹 **Internship** 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘀𝘂𝗯𝗺𝗶𝘀𝘀𝗶𝗼𝗻 as a Data Analyst Intern at AtliQ Technologies, part of the Codebasics Bootcamp 4.0. 🚀
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 📊 :
 Shield Insurance is an insurance provider operating across five cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
