@@ -49,8 +49,4 @@ Revenue and Customer metrics based on age group.
 
 ### Thank you for reading. 
 
-## Author
-**Deepthi G Das**  
-📧 [deepthigdas@243@gmail.com](mailto:deepthigdas@243@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthi-g-das)
 
