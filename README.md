@@ -5,7 +5,7 @@ Welcome to the Shield Insurance Performance Dashboard repository! This project s
 
 ## Dashboard Views: 
 
-Click the link to explore the live dashboard:[Power BI dashboard]https://app.powerbi.com/view?r=eyJrIjoiN2ZkMzdjODktNDMyMS00Y2MzLWFlNGUtOGFlMWUwOTE5OGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Click the link to explore the live dashboard:[Power BI dashboard].(https://app.powerbi.com/view?r=eyJrIjoiN2ZkMzdjODktNDMyMS00Y2MzLWFlNGUtOGFlMWUwOTE5OGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 Hey, everyone 👋🏻 
 
 🚀 I'm excited to share my 𝗳𝗶𝗻𝗮𝗹 Internship 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘀𝘂𝗯𝗺𝗶𝘀𝘀𝗶𝗼𝗻 as a Data Analyst Intern at AtliQ Technologies, part of the Codebasics Bootcamp 4.0. 🚀
