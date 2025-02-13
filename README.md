@@ -67,7 +67,8 @@ The goal was to build a pilot project using Power BI to create a comprehensive d
 - **Enhance Customer Support for Younger Segments**: Address the lower settlement rates for younger customers (18-24) through better support and flexible policy options.
 - **Promote High-Performing Policies**: Analyze the success factors of policies like POL2005HEL and apply similar strategies to boost other policies.
 
----
+--
+
 ## Thank You for Reading! 😊
 
 
