@@ -2,7 +2,9 @@
 # Shield Insurance Performance Analysis
 ## Overview
 Welcome to the Shield Insurance Performance Dashboard repository! This project showcases an in-depth performance analysis of the fictional Shield Insurance company. The interactive Power BI dashboard delivers key metrics that provide valuable insights into sales, customer engagement, and revenue growth, helping businesses make data-driven decisions to optimize performance.
+
 ## Dashboard Views: 
+
 Click the link to explore the live dashboard: https://app.powerbi.com/view?r=eyJrIjoiN2ZkMzdjODktNDMyMS00Y2MzLWFlNGUtOGFlMWUwOTE5OGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 Hey, everyone 👋🏻 
 
