@@ -17,10 +17,10 @@ Explore the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/vi
 
 Shield Insurance operates across five cities in India: **Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore**. The company utilizes multiple sales channels to reach customers, including:
 
-**- Offline Agents**
-**- Offline Direct Sales**
-**- Online Apps**
-**- Online Websites**
+- **Offline Agents**
+- **Offline Direct Sales**
+- **Online Apps**
+- **Online Websites**
 
 Shield Insurance offers a total of **nine different policies**, catering to various customer needs.
 
@@ -58,7 +58,6 @@ The goal was to build a pilot project using Power BI to create a comprehensive d
 - **Power Query**: For data transformation and cleaning.
 - **DAX (Data Analysis Expressions)**: For calculated columns and measures to provide deeper insights.
 - **Microsoft PowerPoint**: For presenting key dashboard insights to stakeholders.
-- **Microsoft Clipchamp**: For recording a walkthrough video of the dashboard and key findings.
 
 ## Key Recommendations
 
@@ -68,6 +67,8 @@ The goal was to build a pilot project using Power BI to create a comprehensive d
 - **Enhance Customer Support for Younger Segments**: Address the lower settlement rates for younger customers (18-24) through better support and flexible policy options.
 - **Promote High-Performing Policies**: Analyze the success factors of policies like POL2005HEL and apply similar strategies to boost other policies.
 
+---
+## Thank You for Reading! 😊
 
 
 
