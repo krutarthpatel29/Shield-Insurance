@@ -31,7 +31,7 @@ The goal was to build a pilot project using Power BI to create a comprehensive d
 ## Dashboard Overview
 
 ### 🔹 Home Page 🏡
-Landing page with navigation to different sections.
+- Landing page with navigation to different sections.
 
 ### 🔹 General Analysis 📈
 - Overview of key insurance metrics.
