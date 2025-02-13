@@ -9,25 +9,26 @@ Hey, everyone 👋🏻
 
 🚀 I'm excited to share my 𝗳𝗶𝗻𝗮𝗹 Internship 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘀𝘂𝗯𝗺𝗶𝘀𝘀𝗶𝗼𝗻 as a Data Analyst Intern at AtliQ Technologies, part of the Codebasics Bootcamp 4.0. 🚀
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 📊
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 📊 :
 Shield Insurance is an insurance provider operating across five cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
 They utilize various sales channels to reach their customers, including Offline Agents, Offline Direct, Online Apps, and Online Websites, and offer a total of nine different policies.
 
-🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: 🛠️
+🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞🛠️ :
 Task was to build a pilot project using power bi to create a dashboard for Shield Insurance, that would help them in making data-driven decisions by analyzing their data from November 2022 to April 2023.
 
-𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 
-Home Page 🏡
+𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 :
+Home Page 🏡 :
 Landing Page, from here one can navigate to different pages.
 
-General Analysis 📈:
+General Analysis 📈 :
 Provide an overview of essential insurance metrics, including a monthly revenue and customer trend along with city segmentation.
 
-Sales Mode Analysis:
+Sales Mode Analysis :
 Revenue and Customer metrics based on different sales mode.
 
-Age Group Analysis 👥:
+Age Group Analysis 👥 :
 Revenue and Customer metrics based on age group.
+
 ## Insights & Analysis:
 1. Revenue by Age Group: Adults (31-40 years) contribute the most revenue, with seniors (65+) following closely. Teens (18-24 years) generate the least revenue, reflecting differences in policy preferences and purchasing power.
 2. Top Performing Cities: Delhi leads in both revenue generation and customer base, with other cities such as Mumbai and Hyderabad showing potential for growth.
